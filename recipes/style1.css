@@ -1,0 +1,23 @@
+h1,h2,h3,h4{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aquamarine;
+}
+
+p{
+    color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: beige;
+}
+
+.cls.xyz{
+    color: darkcyan;
+    font-family:'Times New Roman', Times, serif;
+    background-color: pink;
+}
+
+.cls#iden{
+    color: darkmagenta;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:lightgrey;
+}
